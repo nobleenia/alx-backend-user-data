@@ -29,6 +29,7 @@ def profile_logged(session_id: str) -> None:
     """Get profile while logged in"""
     assert True
 
+
 def log_out(session_id: str) -> None:
     """Log out"""
     assert True
